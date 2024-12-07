@@ -1,0 +1,110 @@
+--2024-12-07 15:05:25--  https://www.cloudflare.com/plans/?utm_source=google
+Resolving www.cloudflare.com (www.cloudflare.com)... 104.16.124.96, 104.16.123.96, 2606:4700::6810:7b60, ...
+Connecting to www.cloudflare.com (www.cloudflare.com)|104.16.124.96|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘www.cloudflare.com/plans/index.html?utm_source=google’
+
+        www.clo     [<=>     ]       0  --.-KB/s               www.cloudflare.     [ <=>    ] 322.02K  --.-KB/s    in 0.007s  
+
+2024-12-07 15:05:25 (46.0 MB/s) - ‘www.cloudflare.com/plans/index.html?utm_source=google’ saved [329746]
+
+Loading robots.txt; please ignore errors.
+--2024-12-07 15:05:25--  https://www.cloudflare.com/robots.txt
+Reusing existing connection to www.cloudflare.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/plain]
+Saving to: ‘www.cloudflare.com/robots.txt’
+
+        www.clo     [<=>     ]       0  --.-KB/s               www.cloudflare.     [ <=>    ]   5.44K  --.-KB/s    in 0s      
+
+2024-12-07 15:05:25 (2.19 GB/s) - ‘www.cloudflare.com/robots.txt’ saved [5573]
+
+--2024-12-07 15:05:25--  https://www.cloudflare.com/plans/
+Reusing existing connection to www.cloudflare.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘www.cloudflare.com/plans/index.html’
+
+        www.clo     [<=>     ]       0  --.-KB/s               www.cloudflare.     [ <=>    ] 322.02K  --.-KB/s    in 0.008s  
+
+2024-12-07 15:05:25 (38.5 MB/s) - ‘www.cloudflare.com/plans/index.html’ saved [329746]
+
+--2024-12-07 15:05:25--  https://www.cloudflare.com/plans/enterprise/contact/
+Reusing existing connection to www.cloudflare.com:443.
+HTTP request sent, awaiting response... 403 Forbidden
+2024-12-07 15:05:25 ERROR 403: Forbidden.
+
+--2024-12-07 15:05:25--  https://www.cloudflare.com/plans/faq/
+Connecting to www.cloudflare.com (www.cloudflare.com)|104.16.124.96|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘www.cloudflare.com/plans/faq/index.html’
+
+        www.clo     [<=>     ]       0  --.-KB/s               www.cloudflare.     [ <=>    ] 314.66K  --.-KB/s    in 0.007s  
+
+2024-12-07 15:05:25 (43.6 MB/s) - ‘www.cloudflare.com/plans/faq/index.html’ saved [322215]
+
+--2024-12-07 15:05:25--  https://www.cloudflare.com/plans/zero-trust-services/
+Reusing existing connection to www.cloudflare.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘www.cloudflare.com/plans/zero-trust-services/index.html’
+
+        www.clo     [<=>     ]       0  --.-KB/s               www.cloudflare.     [ <=>    ] 303.57K  --.-KB/s    in 0.008s  
+
+2024-12-07 15:05:25 (38.5 MB/s) - ‘www.cloudflare.com/plans/zero-trust-services/index.html’ saved [310855]
+
+--2024-12-07 15:05:25--  https://www.cloudflare.com/plans/network-services/
+Reusing existing connection to www.cloudflare.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘www.cloudflare.com/plans/network-services/index.html’
+
+        www.clo     [<=>     ]       0  --.-KB/s               www.cloudflare.     [ <=>    ] 302.67K  --.-KB/s    in 0.01s   
+
+2024-12-07 15:05:25 (29.3 MB/s) - ‘www.cloudflare.com/plans/network-services/index.html’ saved [309939]
+
+--2024-12-07 15:05:25--  https://www.cloudflare.com/plans/developer-platform/
+Reusing existing connection to www.cloudflare.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘www.cloudflare.com/plans/developer-platform/index.html’
+
+        www.clo     [<=>     ]       0  --.-KB/s               www.cloudflare.     [ <=>    ] 298.82K  --.-KB/s    in 0.009s  
+
+2024-12-07 15:05:26 (33.2 MB/s) - ‘www.cloudflare.com/plans/developer-platform/index.html’ saved [305991]
+
+--2024-12-07 15:05:26--  https://www.cloudflare.com/plans/free/
+Reusing existing connection to www.cloudflare.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘www.cloudflare.com/plans/free/index.html’
+
+        www.clo     [<=>     ]       0  --.-KB/s               www.cloudflare.     [ <=>    ] 310.28K  --.-KB/s    in 0.007s  
+
+2024-12-07 15:05:26 (44.2 MB/s) - ‘www.cloudflare.com/plans/free/index.html’ saved [317726]
+
+--2024-12-07 15:05:26--  https://www.cloudflare.com/plans/enterprise/demo/
+Reusing existing connection to www.cloudflare.com:443.
+HTTP request sent, awaiting response... 403 Forbidden
+2024-12-07 15:05:26 ERROR 403: Forbidden.
+
+FINISHED --2024-12-07 15:05:26--
+Total wall clock time: 0.6s
+Downloaded: 8 files, 2.1M in 0.06s (38.4 MB/s)
+Converting links in www.cloudflare.com/plans/index.html... 96.
+12-84
+Converting links in www.cloudflare.com/plans/network-services/index.html... 86.
+10-76
+Converting links in www.cloudflare.com/plans/faq/index.html... 87.
+10-77
+Converting links in www.cloudflare.com/plans/index.html?utm_source=google... 96.
+12-84
+Converting links in www.cloudflare.com/plans/zero-trust-services/index.html... 87.
+11-76
+Converting links in www.cloudflare.com/plans/free/index.html... 89.
+11-78
+Converting links in www.cloudflare.com/plans/developer-platform/index.html... 84.
+10-74
+Converted links in 7 files in 0.03 seconds.
